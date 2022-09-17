@@ -1,4 +1,4 @@
-import powersOfTwo from '../solution/js/fibonacciExponential';
+import powersOfTwo  from '../solution/js/fibonacciExponential';
 
 describe('fibonacciExponential() ', () => {
   test('should exponential values of fibonacci', () => {
